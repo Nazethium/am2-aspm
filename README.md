@@ -1,5 +1,10 @@
 # Armory & Machine 2: Android Singleplayer Mod
 ---
+
+Fork of The-Machine-Lives' [am2](https://github.com/The-Machine-Lives/am2)
+
+---
+
 Yeah, so AM2 servers were shut down. 
 
 UKEN is unresponsive and reportedly unwilling to release source code.

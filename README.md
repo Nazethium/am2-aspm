@@ -1,7 +1,7 @@
 # Armory & Machine 2: Android Singleplayer Mod
 ---
 
-Fork of The-Machine-Lives' [am2](https://github.com/The-Machine-Lives/am2)
+Fork of [The-Machine-Lives/am2](https://github.com/The-Machine-Lives/am2)
 
 ---
 
